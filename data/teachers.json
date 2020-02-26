@@ -1,0 +1,27 @@
+[
+    
+    {
+        "id" : 1,
+        "name" : "Tuhib",
+        "designation" : "Teacher",
+        "department" : "জামাতে তাকমীল",
+        "address" : "Joypara Bazar, Dohar, Dhaka-1330, Bangladesh.",
+        "contact" : "01994837465"
+    },
+    {
+        "id" : 2,
+        "name" : "Taohid",
+        "designation" : "Teacher",
+        "department" : "হিফজ বিভাগ",
+        "address" : "Joypara Bazar, Dohar, Dhaka-1330, Bangladesh.",
+        "contact" : "01994837465"
+    },
+    {
+        "id" : 3,
+        "name" : "Bahalul",
+        "designation" : "Teacher",
+        "department" : "জামাতে তাকমীল",
+        "address" : "Joypara Bazar, Dohar, Dhaka-1330, Bangladesh.",
+        "contact" : "01994837465"
+    },
+]
