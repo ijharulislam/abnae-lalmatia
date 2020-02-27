@@ -1,27 +1,195 @@
 [
     
-    {
-        "id" : 1,
-        "name" : "Tuhib",
-        "designation" : "Teacher",
-        "department" : "জামাতে তাকমীল",
-        "address" : "Joypara Bazar, Dohar, Dhaka-1330, Bangladesh.",
-        "contact" : "01994837465"
-    },
-    {
-        "id" : 2,
-        "name" : "Taohid",
-        "designation" : "Teacher",
-        "department" : "হিফজ বিভাগ",
-        "address" : "Joypara Bazar, Dohar, Dhaka-1330, Bangladesh.",
-        "contact" : "01994837465"
-    },
-    {
-        "id" : 3,
-        "name" : "Bahalul",
-        "designation" : "Teacher",
-        "department" : "জামাতে তাকমীল",
-        "address" : "Joypara Bazar, Dohar, Dhaka-1330, Bangladesh.",
-        "contact" : "01994837465"
-    }
+    
+     {  
+        "name" : "হাফেজ মাওলানা ফারুক আহমাদ",
+        "father" : "",
+        "address" : "গ্রাম : গাংচর, পোষ্ট : মোগলটুলি, থানা: কোতয়ালী, জেলা : কুমিল্লা",
+        "current_address" : "",
+        "designation" : "মুহতামিম",
+        "contact" : "",
+        "blood_group" :""
+    },   
+    {  
+        "name" : "মাওলানা মাহবুবুল হক কাসেমী ",
+        "father" : " পিতা : মাওলানা শামসুল হক",
+        "address" : " গ্রাম : নলবুনিয়া, পোষ্ট : পাড়েরহাট, থানা : জিয়ানগর, জেলা : পিরোজপুর।",
+        "current_address" : "",
+        "designation" : "সিনিয়র মুহাদ্দিস",
+        "contact" : "",
+        "blood_group" :""
+    },      
+    {  
+        "name" : "নাম : মুহা. আবরারুজ্জামান পাহাড়পুরী",
+        "father" : "পিতা: মাওলানা আব্দুল হাই পাহাড়পুরী রহ.",
+        "address" : "স্থায়ী ঠিকানা : ৬৭ আহসানবাগ, কামরাঙ্গীরচর, আশরাফাবাদ, ঢাকা",
+        "current_address" : "",
+        "designation" : "প্রধান মুফতী",
+        "contact" : "",
+        "blood_group" :"O+"
+    },         
+    {  
+        "name" : "নাম : নুরুল আমীন সাহেব",
+        "father" : "পিতা জনাব মরহুম ফজলুল করিম",
+        "address" : "গ্রাম - কুড়েরপাড়, পোষ্ট : আলীরটেক, থানা ও জেলা : নারায়নগঞ্জ সদর",
+        "current_address" : "",
+        "designation" : "মুহাদ্দিস",
+        "contact" : "",
+        "blood_group" :"A+"
+    },          
+    {  
+        "name" : "নাম : মুহা. হারুনুর রশীদ",
+        "father" : "পিতা: মাওলানা আব্দুল কবীর রহ.	",
+        "address" : "স্থায়ী ঠিকানা : গ্রাম : বটতলী, পোষ্ট: মান্দারী বাজার, উপজেলা+ জেলা : লক্ষীপুর ",
+        "current_address" : "",
+        "designation" : "শিক্ষক",
+        "contact" : "",
+        "blood_group" :"B+"
+    },        
+    {  
+        "name" : "নাম : মুজীবুর রহমান ",
+        "father" : "পিতা- হাফেজ মাওলানা মুস্তফা ",
+        "address" : "স্থায়ী ঠিকানা: গ্রাম : পূর্ব জাফরাবাদ, পোস্ট : পুরান বাজার, থানা : চাঁদপুর, সদর, জেলা : চাঁদপুর",
+        "current_address" : "",
+        "designation" : "শিক্ষক",
+        "contact" : "",
+        "blood_group" :" O+"
+    },        
+    {  
+        "name" : "নাম : মো. ইসমাঈল",
+        "father" : "",
+        "address" : "গ্রাম : সুলতানপুর, পোষ্ট : ধনিশ্বর, থানা : বরুড়া, জেলা : কুমিল্লা",
+        "current_address" : "",
+        "designation" : "শিক্ষক",
+        "contact" : "",
+        "blood_group" :"O+"
+    },         
+    {  
+        "name" : "নাম : মুহা. মাসউদুর রহমান ",
+        "father" : "পিতা : মুহা. মুফিজুদ্দীন বিন আবেদ আলী।",
+        "address" : "স্থায়ী ঠিকানা : গ্রাম : নারগানা, পোষ্ট : সাওরাইদ বাজার, থানা: কালীগঞ্জ, জেলা : গাজীপুর",
+        "current_address" : "",
+        "designation" : "শিক্ষক",
+        "contact" : "",
+        "blood_group" :""
+    },        
+    {  
+        "name" : "নাম : আবুল হাসান",
+        "father" : "পিতা : মরহুম আইয়ুব আলী",
+        "address" : "",
+        "current_address" : "",
+        "designation" : "শিক্ষক",
+        "contact" : "",
+        "blood_group" :" O-"
+    },       
+    {  
+        "name" : "নাম : শরীফুল ইসলাম সুহাইল",
+        "father" : "পিতা- মরহুম আব্দুল মজিদ",
+        "address" : "গ্রাম : সুতারপুর, পোস্ট : স্বরমুশিয়া, থানা : আটপাড়া, জেলা : নেত্রকোনা।",
+        "current_address" : "",
+        "designation" : "শিক্ষক",
+        "contact" : "",
+        "blood_group" :"O+"
+    },      
+    {  
+        "name" : "নাম : মো: মাছরূরুল হক ",
+        "father" : "পিতা- মাওলানা আব্দুল হালিম রহ.",
+        "address" : "গ্রাম : উত্তর পাঁচআনী, পোস্ট: উত্তর পাঁচআনী, থানা : মতলব, জেলা: চাঁদপুর",
+        "current_address" : "",
+        "designation" : "নায়েবে মুহতামিম",
+        "contact" : "",
+        "blood_group" :"O+"
+    },         
+    {  
+        "name" : "নাম : সা’দ বিন আব্দুস সামাদ",
+        "father" : "পিতা : হাফেজ মাওলানা মুহাম্মাদ আব্দুস সামাদ",
+        "address" : "৯৭/৮ পাটগুদাম, ব্রীজমোড়, সদর, ময়মনসিংহ।",
+        "current_address" : "",
+        "designation" : "শিক্ষক",
+        "contact" : "",
+        "blood_group" :""
+    },          
+    {  
+        "name" : "নাম : মামুন আব্দুল্লাহ কাসেমী",
+        "father" : "পিতা-মাওলানা ইয়াকুব,",
+        "address" : " গ্রাম : ঝাটুরদিয়া, পোষ্ট: কাইচাইল, থানা : নগরকান্দা, জেলা : ফরিদপুর",
+        "current_address" : "",
+        "designation" : "শিক্ষক",
+        "contact" : "",
+        "blood_group" :"O+"
+    },        
+    {  
+        "name" : "নাম : আব্দুল্লাহ আল আমীন",
+        "father" : "",
+        "address" : "স্থায়ী ঠিকানা : ২৯৬/ডি, টালি অফিস রোড, হাজারীবাগ, ঢাকা",
+        "current_address" : "",
+        "designation" : "শিক্ষক",
+        "contact" : "",
+        "blood_group" :""
+    },        
+    {  
+        "name" : "নাম : সাইফুল্লাহ শিবলী	",
+        "father" : "পিতা- হাফিজুর রহমান,",
+        "address" : "গ্রাম+পোষ্ট: সত্যপুর, থানা+জেলা : মাগুরা।",
+        "current_address" : "",
+        "designation" : "শিক্ষক",
+        "contact" : "",
+        "blood_group" :"B+"
+    },         
+    {  
+        "name" : "নাম : খালেদুজ্জামান ",
+        "father" : "পিতা- ডা. মুহাম্মদ ওয়াহিদুজ্জামান",
+        "address" : "গ্রাম : শ্রীকোল মধ্যপাড়া, পোষ্ট : দুবলিয়া, থানা : আতাইকুলা, জেলা : পাবনা",
+        "current_address" : "",
+        "designation" : "শিক্ষক",
+        "contact" : "",
+        "blood_group" :"O+"
+    },        
+    {  
+        "name" : "নাম : জহির রাইহান",
+        "father" : "",
+        "address" : " নগরকান্দা, ফরিদপুর।",
+        "current_address" : "",
+        "designation" : "শিক্ষক",
+        "contact" : "",
+        "blood_group" :" B+"
+    },          
+    {  
+        "name" : "নাম : নাজিদ সালমান",
+        "father" : "পিতা-সেকান্দার আলী মোড়ল",
+        "address" : "৬১/২৮, মধ্য মোমেনবাগ, আশরাফাবাদ, কামরাঙ্গীরচর, ঢাকা-১২১১",
+        "current_address" : "",
+        "designation" : "শিক্ষক",
+        "contact" : "",
+        "blood_group" :" A+"
+    },      
+    {  
+        "name" : "নাম : মুহা. বাছির উদ্দিন",
+        "father" : "পিতা-সেকান্দার আলী মোড়ল",
+        "address" : "জামালপুর, কালীগঞ্জ, গাজীপুর।",
+        "current_address" : "",
+        "designation" : "শিক্ষক",
+        "contact" : "",
+        "blood_group" :""
+    },         
+    {  
+        "name" : "নাম : এমদাদুল্লাহ",
+        "father" : "পিতা : মাওলানা আবুল বাশার শেখ	",
+        "address" : "গ্রাম : স্বরুপদহ, পোষ্ট : পোড়াদহ, থানা : মিরপুর, জেলা : কুষ্টিয়া।",
+        "current_address" : "",
+        "designation" : "শিক্ষক",
+        "contact" : "",
+        "blood_group" :" A+"
+    },          
+    {  
+        "name" : "নাম : মু’তাসিম বিল্লাহ	",
+        "father" : "পিতা: এইচ, এম, মোস্তফা জামাল",
+        "address" : " ৫৫/২-ক দক্ষিণ মুগদাপাড়া, বাসাবো, মতিঝিল, ঢাকা।",
+        "current_address" : "",
+        "designation" : "শিক্ষক",
+        "contact" : "",
+        "blood_group" :""
+    },        
+
+    
 ]

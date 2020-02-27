@@ -25,6 +25,12 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    
+    "android": {
+      "package": "com.webschooly.abnae_lalmatia",
+      "versionCode": 1
     }
+      
   }
 }

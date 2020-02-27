@@ -4,26 +4,155 @@ import {Collapse,CollapseHeader, CollapseBody, AccordionList} from 'accordion-co
 import {Tab} from '../../route/tab';
 import { useNavigation } from 'react-navigation-hooks';
 
-import teachers from '../../data/teachers.json';
+
+const teachers = require(`../../data/Teacher_list/teacher.json`)
+
 
 const student_২০২০ = require(`../../data/Student_list/student_২০২০.json`);
 const student_২০১৯ = require(`../../data/Student_list/student_২০১৯.json`);
 const student_২০১৮ = require(`../../data/Student_list/student_২০১৮.json`);
 const student_২০১৭ = require(`../../data/Student_list/student_২০১৭.json`);
+const student_২০১৬ = require(`../../data/Student_list/student_২০১৬.json`);
+const student_২০১৫ = require(`../../data/Student_list/student_২০১৫.json`);
+const student_২০১৪ = require(`../../data/Student_list/student_২০১৪.json`);
+const student_২০১৩ = require(`../../data/Student_list/student_২০১৩.json`);
+const student_২০১২ = require(`../../data/Student_list/student_২০১২.json`);
+const student_২০১১ = require(`../../data/Student_list/student_২০১১.json`);
+const student_২০১০ = require(`../../data/Student_list/student_২০১০.json`);
+const student_২০০৯ = require(`../../data/Student_list/student_২০০৯.json`);
+const student_২০০৮ = require(`../../data/Student_list/student_২০০৮.json`);
+const student_২০০৭ = require(`../../data/Student_list/student_২০০৭.json`);
+const student_২০০৬ = require(`../../data/Student_list/student_২০০৬.json`);
+const student_২০০৫ = require(`../../data/Student_list/student_২০০৫.json`);
+const student_২০০৪= require(`../../data/Student_list/student_২০০৪.json`);
+const student_২০০৩ = require(`../../data/Student_list/student_২০০৩.json`);
+const student_২০০২ = require(`../../data/Student_list/student_২০০২.json`);
+const student_২০০১ = require(`../../data/Student_list/student_২০০১.json`);
+const student_২০০০ = require(`../../data/Student_list/student_২০০০.json`);
+const student_১৯৯৯ = require(`../../data/Student_list/student_১৯৯৯.json`);
+const student_১৯৯৮ = require(`../../data/Student_list/student_১৯৯৮.json`);
+const student_১৯৯৭ = require(`../../data/Student_list/student_১৯৯৭.json`);
+const student_১৯৯৫ = require(`../../data/Student_list/student_১৯৯৫.json`);
+const student_১৯৯৪ = require(`../../data/Student_list/student_১৯৯৪.json`);
+const student_১৯৯৩ = require(`../../data/Student_list/student_১৯৯৩.json`);
+const student_১৯৯২ = require(`../../data/Student_list/student_১৯৯২.json`);
+const student_১৯৯১ = require(`../../data/Student_list/student_১৯৯১.json`);
+const student_১৯৯০ = require(`../../data/Student_list/student_১৯৯০.json`);
+const student_১৯৮৯ = require(`../../data/Student_list/student_১৯৮৯.json`);
+const student_১৯৮৮ = require(`../../data/Student_list/student_১৯৮৮.json`);
+const student_১৯৮৭ = require(`../../data/Student_list/student_১৯৮৭.json`);
+const student_১৯৮৬ = require(`../../data/Student_list/student_১৯৮৬.json`);
+const student_১৯৮৫ = require(`../../data/Student_list/student_১৯৮৫.json`);
+const student_১৯৮৪ = require(`../../data/Student_list/student_১৯৮৪.json`);
+const student_১৯৮৩ = require(`../../data/Student_list/student_১৯৮৩.json`);
+const student_১৯৮২ = require(`../../data/Student_list/student_১৯৮২.json`);
+const student_১৯৭৯ = require(`../../data/Student_list/student_১৯৭৯.json`);
+const student_১৯৭৮ = require(`../../data/Student_list/student_১৯৭৮.json`);
+const student_১৯৭৭ = require(`../../data/Student_list/student_১৯৭৭.json`);
+const student_১৯৭৬ = require(`../../data/Student_list/student_১৯৭৬.json`);
+const student_১৯৭৫ = require(`../../data/Student_list/student_১৯৭৫.json`);
+const student_১৯৬৯ = require(`../../data/Student_list/student_১৯৬৯.json`);
+const student_১৯৬৭ = require(`../../data/Student_list/student_১৯৬৭.json`);
+const student_১৯৬৬ = require(`../../data/Student_list/student_১৯৬৬.json`);
+
 
 
 const mapData = {
     student_২০২০,
     student_২০১৯,
     student_২০১৮,
-    student_২০১৭
+    student_২০১৭,
+    student_২০১৬,
+    student_২০১৫,
+    student_২০১৪,
+    student_২০১৩,
+    student_২০১২,
+    student_২০১১,
+    student_২০১০,
+    student_২০০৯,
+    student_২০০৮,
+    student_২০০৭,
+    student_২০০৬,
+    student_২০০৫,
+    student_২০০৪,
+    student_২০০৩,
+    student_২০০২,
+    student_২০০১,
+    student_২০০০,
+    student_১৯৯৯,
+    student_১৯৯৮,
+    student_১৯৯৭,
+    student_১৯৯৫,
+    student_১৯৯৪,
+    student_১৯৯৩,
+    student_১৯৯২,
+    student_১৯৯১,
+    student_১৯৯০,
+    student_১৯৮৯,
+    student_১৯৮৮,
+    student_১৯৮৭,
+    student_১৯৮৬,
+    student_১৯৮৫,
+    student_১৯৮৪,
+    student_১৯৮৩,
+    student_১৯৮২,
+    student_১৯৭৯,
+    student_১৯৭৮,
+    student_১৯৭৭,
+    student_১৯৭৬,
+    student_১৯৭৫,
+    student_১৯৬৯,
+    student_১৯৬৭,
+    student_১৯৬৬,
+
 }
 
 const allData = [
     ...student_২০২০,
     ...student_২০১৯,
     ...student_২০১৮,
-    ...student_২০১৭
+    ...student_২০১৭,
+    ...student_২০১৬,
+    ...student_২০১৫,
+    ...student_২০১৪,
+    ...student_২০১৩,
+    ...student_২০১২,
+    ...student_২০১১,
+    ...student_২০১০,
+    ...student_২০০৯,
+    ...student_২০০৮,
+    ...student_২০০৭,
+    ...student_২০০৬,
+    ...student_২০০৫,
+    ...student_২০০৪,
+    ...student_২০০৩,
+    ...student_২০০২,
+    ...student_২০০১,
+    ...student_২০০০,
+    ...student_১৯৯৯,
+    ...student_১৯৯৮,
+    ...student_১৯৯৭,
+    ...student_১৯৯৫,
+    ...student_১৯৯৪,
+    ...student_১৯৯৩,
+    ...student_১৯৯২,
+    ...student_১৯৯১,
+    ...student_১৯৯০,
+    ...student_১৯৮৯,
+    ...student_১৯৮৮,
+    ...student_১৯৮৭,
+    ...student_১৯৮৬,
+    ...student_১৯৮৫,
+    ...student_১৯৮৪,
+    ...student_১৯৮৩,
+    ...student_১৯৮২,
+    ...student_১৯৭৯,
+    ...student_১৯৭৮,
+    ...student_১৯৭৭,
+    ...student_১৯৭৬,
+    ...student_১৯৬৯,
+    ...student_১৯৬৭,
+    ...student_১৯৬৬,
 ]
 
 const getData = (year)=> {

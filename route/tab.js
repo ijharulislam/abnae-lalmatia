@@ -19,7 +19,7 @@ export const Tab = ({ onPress, activeTab, type }) => {
               ...(activeTab === type ? styles.tabTitleActive : {})
             }}
           >
-            {type === "teachers" ? "শিক্ষকমণ্ডলী" : "ছাত্রবৃন্দ "}
+            {type === "teachers" ? "শিক্ষক" : "ছাত্র "}
           </Text>
         </TouchableOpacity>
       </View>
