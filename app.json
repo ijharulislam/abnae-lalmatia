@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "madrasha_archive",
-    "slug": "madrasha_archive",
+    "name": "abnae",
+    "slug": "abnae",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
@@ -28,7 +28,7 @@
     },
     
     "android": {
-      "package": "com.webschooly.abnae_lalmatia",
+      "package": "com.webschooly.abnae",
       "versionCode": 1
     }
       

@@ -189,7 +189,328 @@
         "designation" : "শিক্ষক",
         "contact" : "",
         "blood_group" :""
-    },        
+    },
+    
+    
+    
+    
+    {  
+        "name" : "হা. মাও. ফারুক আহমাদ সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "মুহতামিমমুহতামিম ",
+        "contact" : "01674-068895",
+        "blood_group" :""
+    },
+    {  
+        "name" : "মাও. মাহবুবুল হক কাসেমী সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "শাইখুল হাদীস ",
+        "contact" : "01712-008989",
+        "blood_group" :""
+    },
+    {  
+        "name" : "মাওলানা আবরারুজ্জামান পাহাড়পুরী দা.বা.	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "সিনিয়র মুহাদ্দিস ",
+        "contact" : "01674-068895",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "মুফতি নুরুল আমীন সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : " সিনিয়র মুহাদ্দিস ও প্রধান মুফতি",
+        "contact" : "01814733610",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "	মাও. হারুনুর রশীদ সাহেব",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "সিনিয়র মুহাদ্দিস ",
+        "contact" : "01718-806854",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "মুফতি মুজিবুর রহমান সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "সিনিয়র মুহাদ্দিস ",
+        "contact" : "01912-709548",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "	মাও. ইসমাঈল সাহেব",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : " সিনিয়র মুহাদ্দিস",
+        "contact" : "01711-003112",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "	মুফতি মাসউদুর রহমান সাহেব",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : " সিনিয়র মুহাদ্দিস ও নাযেমে কুতুবখানা",
+        "contact" : "01791-743090",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "	মাও. আবুল হাসান সাহেব",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "সিনিয়র মুহাদ্দিস ",
+        "contact" : "01914-563807",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "মুফতি শরীফুল ইসসলাম সুহাইল সাহেব",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "সিনিয়র মুহাদ্দিস ও নাযিমে তা‘লীমত ",
+        "contact" : "01718-738120",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "হা. মাও.মাছরূরুল হক সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "সিনিয়র মুহাদ্দিস ও নায়েবে মুহতামিম ",
+        "contact" : "01819-113599",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "	মুফতি সা’দ বিন আব্দুস সামাদ সাহেব",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : " মুহাদ্দিস ও মুশরিফে ইফতা",
+        "contact" : "01716-384181",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "মুফতি মামুন আব্দুল্লাহ কাসেমী সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : " মুহাদ্দিস",
+        "contact" : "01712-976158",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "	মাও.আ: আল-আমীন সাহেব",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "মুহাদ্দিস ",
+        "contact" : "01673-014092",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "মুফতি সাইফুল্লাহ শিবলী সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : " মুহাদ্দিস",
+        "contact" : "01715-100311",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "মাওলানা খালেদুজ্জামান সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "মুহাদ্দিস ",
+        "contact" : "01749-005361",
+        "blood_group" :""
+    }, 
+    
+    {  
+        "name" : "মুফতি জহির রাইহান সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : " সিনিয়র উস্তাদ",
+        "contact" : "01630-841147",
+        "blood_group" :""
+    }, 
+    
+    {  
+        "name" : "মাওলানা নাজিদ সালমান সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : " সিনিয়র উস্তাদ ও সহকারী নাযেমে তা’লিমাত",
+        "contact" : "01950-186401",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "মুফতি এমদাদুল্লাহ সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "সিনিয়র উস্তাদ ও নাযেমে মাতবাখ ",
+        "contact" : "01721-139935",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "মুফতি এখলাসুদ্দীন সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : " মুদাররিস",
+        "contact" : "01925-003734",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "	মুফতি মু‘তাসিম বিল্লাহ সাহেব",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "মুদাররিস ",
+        "contact" : "01924-129092",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "হা. মাও.আবুল কালাম সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : " মুদাররিস ও নাযেমে উমুরে খারেজী",
+        "contact" : "01719-990197",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "মুফতি মুজ্জামিলুল হক সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "মুদাররিস ",
+        "contact" : "01911-018303",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "	ক্বারী বাছিরুদ্দীন সাহেব",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "মুদাররিস ",
+        "contact" : "01922-626336",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "মাওলানা মাসউদুর রহমান সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : " মুদাররিস",
+        "contact" : "01947-801014",
+        "blood_group" :""
+    }, 
+    {  
+        "name" : "	মাওলানা সামিউল ইসলাম সাহেব",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "মুদাররিস ",
+        "contact" : "01757-693243",
+        "blood_group" :""
+    },
+    {  
+        "name" : "	মুফতি উমর ফারুক মাসরুর সাহেব",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "মুদাররিস ",
+        "contact" : "01765-566707",
+        "blood_group" :""
+    },
+    {  
+        "name" : "	হা. মুজ্জাম্মিলুল হাসান সাহেব",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "হিফজ বিভাগ প্রধান ",
+        "contact" : "01717-921553",
+        "blood_group" :""
+    },
+    {  
+        "name" : "হা.মাও.মুশতাক আহমাদ সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "হিফজ-শিক্ষক ",
+        "contact" : "01816-300994",
+        "blood_group" :""
+    },
+    {  
+        "name" : "	হা. জাহিরুল ইসলাম সাহেব",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "হিফজ-শিক্ষক ",
+        "contact" : "01912-943051",
+        "blood_group" :""
+    },
+    {  
+        "name" : "হা. ওমর ফারুক সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "হিফজ-শিক্ষক ",
+        "contact" : "01812-528248",
+        "blood_group" :""
+    },
+    {  
+        "name" : "	মাও. আব্দুল হালীম সাহেব",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "মক্তব বিভাগ প্রধান ",
+        "contact" : "01718-645041",
+        "blood_group" :""
+    },
+    {  
+        "name" : "	হা. মাও.গোলাম কিবরিয়া সাহেব",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "মক্তব- শিক্ষক ",
+        "contact" : "01749-805759",
+        "blood_group" :""
+    },
+    {  
+        "name" : "মাও. আব্দুর রাজ্জাক সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "মক্তব- শিক্ষক ",
+        "contact" : "01732-663821",
+        "blood_group" :""
+    },
+    {  
+        "name" : "মাও. বিন ইয়ামিন সাহেব	",
+        "father" : "",
+        "address" : " ",
+        "current_address" : "",
+        "designation" : "মক্তব- শিক্ষক ",
+        "contact" : "01748-411255",
+        "blood_group" :""
+    },
 
     
 ]
